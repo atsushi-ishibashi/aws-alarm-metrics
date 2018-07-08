@@ -3,7 +3,7 @@
   "AlarmDescription": "Created from EC2 Console",
   "AWSAccountId": "123456789",
   "NewStateValue": "ALARM",
-  "NewStateReason": "Threshold Crossed: 1 datapoint [1.0 (01/01/18 00:00:00)] was greater than or equal to the threshold (1.0).",
+  "NewStateReason": "Threshold Crossed: 1 datapoint [9.0 (01/01/18 00:00:00)] was greater than or equal to the threshold (3.0).",
   "StateChangeTime": "2018-01-01T00:00:00.000+0000",
   "Region": "Asia Pacific (Tokyo)",
   "OldStateValue": "OK",

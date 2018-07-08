@@ -1,6 +1,13 @@
-hash: b6950ce9aff844fdf05a298e108f7300af73fb840da2ec770942359ea025c949
-updated: 2018-07-08T16:27:51.830063+09:00
+hash: 533977b714b9095eed60045ec511e4e8f8e4e8ad57c98e83557ce308557a7085
+updated: 2018-07-08T23:17:33.193307+09:00
 imports:
 - name: github.com/aws/aws-lambda-go
   version: 4d30d0ff60440c2d0480a15747c96ee71c3c53d4
+  subpackages:
+  - events
+  - lambda
+  - lambda/messages
+  - lambdacontext
+- name: github.com/aws/aws-sdk-go
+  version: 16cb9f62f8a8b7af4f38725567f5ce762e1d562b
 testImports: []
