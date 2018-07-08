@@ -12,6 +12,8 @@ Scripts to set Cloudwatch Alarm for Metrics and Lambda functions.
 
 [ApplicationELB](alb/README.md)
 
+[ApiGateway](apigateway/README.md)
+
 [DynamoDB](dynamodb/README.md)
 
 [ECS](ecs/README.md)
