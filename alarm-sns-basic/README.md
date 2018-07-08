@@ -18,8 +18,14 @@ In the case of *OK*, it will send the below message only when the old state is _
     <AlarmName>
     <NewStateReason> @<StateChangeTime>
 
-## requirements
+### Build & Deploy
+```
+$ make build
+$ make deploy function=<function-name> profile=<profile> region=<region>
+```
 
-### environment variables
+### requirements
+
+#### environment variables
 
 -   `SLACK_URL`
