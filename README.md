@@ -6,6 +6,8 @@ Scripts to set Cloudwatch Alarm for Metrics and Lambda functions.
 
 [alarm-sns-basic](alarm-sns-basic/README.md)
 
+[alarm-lambda-duration](alarm-lambda-duration/README.md)
+
 ## Alarm
 
 ### Namespace
