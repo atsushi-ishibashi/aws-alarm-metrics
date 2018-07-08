@@ -14,6 +14,10 @@ Scripts to set Cloudwatch Alarm for Metrics and Lambda functions.
 
 [ElastiCache](elasticache/README.md)
 
+[Lambda](lambda/README.md)
+
+[Logs](logs/README.md)
+
 [NATGateway](natgateway/README.md)
 
 [RDS](rds/README.md)
@@ -21,6 +25,8 @@ Scripts to set Cloudwatch Alarm for Metrics and Lambda functions.
 [SNS](sns/README.md)
 
 [SQS](sqs/README.md)
+
+[WorkSpaces](workspaces/README.md)
 
 ### requirements
 
