@@ -12,6 +12,8 @@ Scripts to set Cloudwatch Alarm for Metrics and Lambda functions.
 
 [ApplicationELB](alb/README.md)
 
+[ECS](ecs/README.md)
+
 [ElastiCache](elasticache/README.md)
 
 [Lambda](lambda/README.md)
