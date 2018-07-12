@@ -4,7 +4,7 @@ CMDNAME=`basename $0`
 
 BLOCK_THRESHOLD=10.0
 
-while getopts r: OPT
+while getopts b: OPT
 do
   case $OPT in
     "b" ) BLOCK_THRESHOLD="$OPTARG" ;;
