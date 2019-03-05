@@ -21,6 +21,7 @@ PROFILE=$1
 ACTION=$2
 CLUSTER=$3
 SERVICE=$4
+AWS_REGION=$5
 
 aws cloudwatch put-metric-alarm \
   --alarm-name "awsecs-$CLUSTER-$SERVICE-CPUUtilization" \
