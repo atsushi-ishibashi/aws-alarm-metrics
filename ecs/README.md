@@ -18,7 +18,7 @@ sh cluster.sh <profile> arn:aws:sns:ap-northeast-1:123456789:alarm-sns-basic <Cl
 ### `service.sh`
 Set `CPUUtilization`,`MemoryUtilization` for `AWS/ECS`.
 ```
-sh service.sh <profile> arn:aws:sns:ap-northeast-1:123456789:alarm-sns-basic <ClusterName> <ServiceName> <AwsRegion>
+sh service.sh <profile> arn:aws:sns:ap-northeast-1:123456789:alarm-sns-basic <ClusterName> <ServiceName>
 ```
 -   `$1`: Use a specific profile from your credential file.
 -   `$2`: Action ARN
